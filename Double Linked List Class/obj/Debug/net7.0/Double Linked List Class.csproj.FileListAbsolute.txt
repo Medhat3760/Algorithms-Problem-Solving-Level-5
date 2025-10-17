@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\bin\Debug\net7.0\Double Linked List Class.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\bin\Debug\net7.0\Double Linked List Class.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\bin\Debug\net7.0\Double Linked List Class.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\bin\Debug\net7.0\Double Linked List Class.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\bin\Debug\net7.0\Double Linked List Class.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\Double Linked List Class.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\Double Linked List Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\Double Linked List Class.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\Double Linked List Class.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\Double Linked List Class.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\Double Linked List Class.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\refint\Double Linked List Class.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\Double Linked List Class.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\Double Linked List Class.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Double Linked List Class\obj\Debug\net7.0\ref\Double Linked List Class.dll

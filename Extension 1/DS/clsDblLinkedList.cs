@@ -9,7 +9,7 @@ namespace Double_Linked_List_Class.DS
     public class clsDblLinkedList<T>
     {
 
-        private int _size;
+        protected int _size;
 
         public class Node
         {
@@ -112,6 +112,7 @@ namespace Double_Linked_List_Class.DS
             {
                 newNode.prev = null;
                 head = newNode;
+                _size++;
                 return;
             }
 
@@ -179,6 +180,7 @@ namespace Double_Linked_List_Class.DS
             if(head.next == null)
             {
                 head = null;
+                _size--;
                 return;
             }
 

@@ -1,5 +1,5 @@
 ﻿using Double_Linked_List_Class.DS;
-namespace Extension_2
+namespace Extension_3
 {
     internal class Program
     {
@@ -7,15 +7,6 @@ namespace Extension_2
         {
 
             clsDblLinkedList<int> myDblLinkedList = new clsDblLinkedList<int>();
-
-            if (myDblLinkedList.IsEmpty())
-            {
-                Console.WriteLine("\nYes List is Empty.");
-            }
-            else
-            {
-                Console.WriteLine("\nNo List is not Empty.");
-            }
 
             myDblLinkedList.InsertAtBeginning(5);
             myDblLinkedList.InsertAtBeginning(4);
@@ -28,14 +19,13 @@ namespace Extension_2
 
             Console.WriteLine("\nNumber of items in the linked list = " + myDblLinkedList.Size);
 
-            if (myDblLinkedList.IsEmpty())
-            {
-                Console.WriteLine("\nYes List is Empty.");
-            }
-            else
-            {
-                Console.WriteLine("\nNo List is not Empty.");
-            }
+            Console.WriteLine("\nExcuting .Clear()");
+
+            myDblLinkedList.Clear();
+
+            Console.WriteLine("\nNumber of items in the linked list = " + myDblLinkedList.Size);
+
+
 
         }
     }

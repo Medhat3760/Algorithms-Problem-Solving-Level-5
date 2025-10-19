@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\bin\Debug\net7.0\Extension 7.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\bin\Debug\net7.0\Extension 7.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\bin\Debug\net7.0\Extension 7.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\bin\Debug\net7.0\Extension 7.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\bin\Debug\net7.0\Extension 7.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\Extension 7.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\Extension 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\Extension 7.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\Extension 7.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\Extension 7.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\Extension 7.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\refint\Extension 7.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\Extension 7.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\Extension 7.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Extension 7\obj\Debug\net7.0\ref\Extension 7.dll

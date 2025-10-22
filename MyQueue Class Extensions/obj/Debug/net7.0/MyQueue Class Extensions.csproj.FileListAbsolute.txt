@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\bin\Debug\net7.0\MyQueue Class Extensions.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\bin\Debug\net7.0\MyQueue Class Extensions.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\bin\Debug\net7.0\MyQueue Class Extensions.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\bin\Debug\net7.0\MyQueue Class Extensions.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\bin\Debug\net7.0\MyQueue Class Extensions.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\MyQueue Class Extensions.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\MyQueue Class Extensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\MyQueue Class Extensions.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\MyQueue Class Extensions.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\MyQueue Class Extensions.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\MyQueue Class Extensions.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\refint\MyQueue Class Extensions.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\MyQueue Class Extensions.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\MyQueue Class Extensions.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueue Class Extensions\obj\Debug\net7.0\ref\MyQueue Class Extensions.dll

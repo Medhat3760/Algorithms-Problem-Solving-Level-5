@@ -1,5 +1,5 @@
 ﻿using MyDynamicArray.DS;
-namespace MyDynamicArray
+namespace MyDynamicArray_Extension_01
 {
     internal class Program
     {
@@ -19,6 +19,23 @@ namespace MyDynamicArray
 
             Console.WriteLine("\nArray Items:");
             myDynamicArray.PrintArray();
+
+            myDynamicArray.Resize(2);
+
+            Console.WriteLine("\nArray Size: " + myDynamicArray.Size);
+
+
+            Console.WriteLine("\nArray Items after resize to 2:");
+            myDynamicArray.PrintArray();
+            
+            myDynamicArray.Resize(10);
+
+            Console.WriteLine("\nArray Size: " + myDynamicArray.Size);
+
+
+            Console.WriteLine("\nArray Items after resize to 10:");
+            myDynamicArray.PrintArray();
+
 
         }
     }

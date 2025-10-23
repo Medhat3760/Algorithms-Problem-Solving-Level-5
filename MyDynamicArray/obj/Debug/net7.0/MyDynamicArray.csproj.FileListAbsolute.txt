@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\bin\Debug\net7.0\MyDynamicArray.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\bin\Debug\net7.0\MyDynamicArray.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\bin\Debug\net7.0\MyDynamicArray.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\bin\Debug\net7.0\MyDynamicArray.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\bin\Debug\net7.0\MyDynamicArray.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\MyDynamicArray.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\MyDynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\MyDynamicArray.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\MyDynamicArray.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\MyDynamicArray.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\MyDynamicArray.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\refint\MyDynamicArray.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\MyDynamicArray.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\MyDynamicArray.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray\obj\Debug\net7.0\ref\MyDynamicArray.dll

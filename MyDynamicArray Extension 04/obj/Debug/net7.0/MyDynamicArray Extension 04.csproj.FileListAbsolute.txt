@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\bin\Debug\net7.0\MyDynamicArray Extension 04.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\bin\Debug\net7.0\MyDynamicArray Extension 04.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\bin\Debug\net7.0\MyDynamicArray Extension 04.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\bin\Debug\net7.0\MyDynamicArray Extension 04.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\bin\Debug\net7.0\MyDynamicArray Extension 04.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\MyDynamicArray Extension 04.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\MyDynamicArray Extension 04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\MyDynamicArray Extension 04.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\MyDynamicArray Extension 04.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\MyDynamicArray Extension 04.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\MyDynamicArray Extension 04.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\refint\MyDynamicArray Extension 04.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\MyDynamicArray Extension 04.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\MyDynamicArray Extension 04.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyDynamicArray Extension 04\obj\Debug\net7.0\ref\MyDynamicArray Extension 04.dll

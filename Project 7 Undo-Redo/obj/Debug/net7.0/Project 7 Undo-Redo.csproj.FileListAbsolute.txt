@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\bin\Debug\net7.0\Project 7 Undo-Redo.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\bin\Debug\net7.0\Project 7 Undo-Redo.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\bin\Debug\net7.0\Project 7 Undo-Redo.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\bin\Debug\net7.0\Project 7 Undo-Redo.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\bin\Debug\net7.0\Project 7 Undo-Redo.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\Project 7 Undo-Redo.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\Project 7 Undo-Redo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\Project 7 Undo-Redo.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\Project 7 Undo-Redo.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\Project 7 Undo-Redo.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\Project 7 Undo-Redo.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\refint\Project 7 Undo-Redo.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\Project 7 Undo-Redo.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\Project 7 Undo-Redo.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 7 Undo-Redo\obj\Debug\net7.0\ref\Project 7 Undo-Redo.dll

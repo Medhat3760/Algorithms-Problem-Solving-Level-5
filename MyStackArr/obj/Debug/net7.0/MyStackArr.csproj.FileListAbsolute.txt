@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\bin\Debug\net7.0\MyStackArr.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\bin\Debug\net7.0\MyStackArr.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\bin\Debug\net7.0\MyStackArr.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\bin\Debug\net7.0\MyStackArr.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\bin\Debug\net7.0\MyStackArr.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\MyStackArr.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\MyStackArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\MyStackArr.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\MyStackArr.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\MyStackArr.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\MyStackArr.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\refint\MyStackArr.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\MyStackArr.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\MyStackArr.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyStackArr\obj\Debug\net7.0\ref\MyStackArr.dll

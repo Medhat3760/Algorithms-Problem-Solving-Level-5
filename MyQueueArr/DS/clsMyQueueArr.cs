@@ -20,7 +20,7 @@ namespace MyQueueArr.DS
 
         public void Pop()
         {
-            _myArr.DeleteItemAt(0);
+            _myArr.DeleteFirstItem();
         }
 
         public T Front()

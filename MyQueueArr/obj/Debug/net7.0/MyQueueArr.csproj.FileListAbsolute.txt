@@ -1,0 +1,15 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\MyQueueArr.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\MyQueueArr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\MyQueueArr.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\MyQueueArr.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\MyQueueArr.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\bin\Debug\net7.0\MyQueueArr.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\bin\Debug\net7.0\MyQueueArr.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\bin\Debug\net7.0\MyQueueArr.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\bin\Debug\net7.0\MyQueueArr.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\bin\Debug\net7.0\MyQueueArr.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\MyQueueArr.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\refint\MyQueueArr.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\MyQueueArr.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\MyQueueArr.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\MyQueueArr\obj\Debug\net7.0\ref\MyQueueArr.dll

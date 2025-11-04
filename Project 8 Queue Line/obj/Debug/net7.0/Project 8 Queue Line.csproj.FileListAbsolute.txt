@@ -1,0 +1,18 @@
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\bin\Debug\net7.0\Project 8 Queue Line.exe
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\bin\Debug\net7.0\Project 8 Queue Line.deps.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\bin\Debug\net7.0\Project 8 Queue Line.runtimeconfig.json
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\bin\Debug\net7.0\Project 8 Queue Line.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\bin\Debug\net7.0\Project 8 Queue Line.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.csproj.AssemblyReference.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.AssemblyInfoInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.AssemblyInfo.cs
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.csproj.CoreCompileInputs.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\refint\Project 8 Queue Line.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.genruntimeconfig.cache
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\ref\Project 8 Queue Line.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\bin\Debug\net7.0\MyLib.dll
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\bin\Debug\net7.0\MyLib.pdb
+D:\Programs Files\Github Repos\Algorithms & Problem Solving Level 5\Project 8 Queue Line\obj\Debug\net7.0\Project 8 Queue Line.csproj.CopyComplete

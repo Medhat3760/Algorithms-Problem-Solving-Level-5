@@ -42,7 +42,7 @@ namespace Project_8_Queue_Line
                     return _prefix;
                 }
             }
-            
+
             public short Number
             {
                 get
@@ -107,7 +107,6 @@ namespace Project_8_Queue_Line
 
             _queueLine.Enqueue(ticket);
 
-
         }
 
         public int WaitingClients()
@@ -120,21 +119,19 @@ namespace Project_8_Queue_Line
         public string WhoIsNext()
         {
 
-            if(_queueLine.Count == 0)
+            if (_queueLine.Count == 0)
             {
                 return "No Clients Left.";
             }
-            else
-            {
-                return _queueLine.Peek().FullNumber();
-            }
+
+            return _queueLine.Peek().FullNumber();
 
         }
 
         public bool ServeNextClient()
         {
 
-            if(_queueLine.Count == 0)
+            if (_queueLine.Count == 0)
             {
                 return false;
             }
@@ -170,27 +167,25 @@ namespace Project_8_Queue_Line
         public void PrintTicketsLineRTL()
         {
 
-            if(_queueLine.Count == 0)
+            if (_queueLine.Count == 0)
             {
 
                 Console.WriteLine("\n\n\t\t\tTickets: No Tickets.");
                 return;
 
             }
-            else
-            {
-                Console.Write("\n\n\t\t\t Tickets:  ");
-            }
 
-            foreach(clsTicket ticket in _queueLine)
+            Console.Write("\n\n\t\t\t Tickets:  ");
+
+            foreach (clsTicket ticket in _queueLine)
             {
-                Console.Write(" "+ticket.FullNumber() + " <-- ");
+                Console.Write(" " + ticket.FullNumber() + " <-- ");
             }
 
             Console.WriteLine();
 
         }
-        
+
         public void PrintTicketsLineLTR()
         {
 
@@ -201,14 +196,12 @@ namespace Project_8_Queue_Line
                 return;
 
             }
-            else
-            {
-                Console.Write("\n\t\t\t Tickets:  ");
-            }
 
             Stack<clsTicket> stack = new Stack<clsTicket>(_queueLine);
 
-            foreach(clsTicket ticket in stack)
+            Console.Write("\n\t\t\t Tickets:  ");
+
+            foreach (clsTicket ticket in stack)
             {
                 Console.Write(" " + ticket.FullNumber() + " --> ");
             }
